@@ -5,14 +5,15 @@
 
 Here are some ideas to get you started:
 
-#### 🔭 I’m currently working on WeCan Soft Company.
-#### 🌱 I’m currently learning react/redux.
-#### 👯 I’m looking to collaborate on any web development.
+- 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-#### 📫 How to reach me: hotdog0818@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My tech stack is:
+<h3>🔭 I’m currently working on WeCan Soft Company.</h3>
+<h3>🌱 I’m currently learning react/redux.</h3>
+<h3>👯 I’m looking to collaborate on any web development.</h3>
+<h3>📫 How to reach me: hotdog0818@gmail.com</h3>
+
+  <h4>My tech stack is:</h4>
 -https://img.shields.io/badge/just%20the%20test-8A2BE2
