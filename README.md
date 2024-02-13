@@ -1,9 +1,10 @@
 <!-- GET /badge/:badgeContent -->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-# Hi, Nice to see you! 👋
-
+# Hi, Welcome to Shawn's git profile!!! 👋
+### Slogan || Moto || Mantra : Focus on understanding the problem, not rushing to the solution.
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/4230/4230963.png" width="30"> A little more about me...  
+## 
 
 ```javascript
 const Seungwoo = {
@@ -15,7 +16,7 @@ const Seungwoo = {
       }
   },
   code: [JAVA, Javascript, HTML, CSS, Docker, git, Spring, React, Node, Redux],
-  framework: [eclipse, Vscode, MySQL, Oracle, Sourcetree, STS, Docker, Workbench],
+  framework: [Eclipse, Vscode, MySQL, Oracle, Sourcetree, STS, Docker, Workbench],
   challenge: "I am trying to implement small features with React for 90 days!",
   futureGoal: "To be a creative and logical developer!"
 }
