@@ -1,3 +1,5 @@
+<!-- GET /badge/:badgeContent -->
+
 ### Hi, Nice to see you! 👋
 
 <!--
@@ -10,10 +12,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-<h3>🔭 I’m currently working on WeCan Soft Company.</h3>
-<h3>🌱 I’m currently learning react/redux.</h3>
-<h3>👯 I’m looking to collaborate on any web development.</h3>
-<h3>📫 How to reach me: hotdog0818@gmail.com</h3>
+<br />
+<h4>🔭 I’m currently working on WeCan Soft Company.</h4>
+<h4>🌱 I’m currently learning react/redux.</h4>
+<h4>👯 I’m looking to collaborate on any web development.</h4>
+<h4>📫 How to reach me: hotdog0818@gmail.com</h4>
 
   <h4>My tech stack is:</h4>
--https://img.shields.io/badge/just%20the%20test-8A2BE2
+  
+![Static Badge](https://img.shields.io/badge/JAVA-gray?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SPRING-purple%20?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tomcat-orange?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%2328A0FF?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node-%2327DBB7?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%23FFA2AD?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-%23FF3CBB?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-%23FFB432?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%23F389EF?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-%23CD7070?style=plastic&logoColor=white)
+
+
+
+
+
+
