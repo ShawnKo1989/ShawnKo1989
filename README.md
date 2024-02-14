@@ -12,7 +12,7 @@ const Seungwoo = {
   currentWorkplace: () => {
       return {
         company: 'Wecan Soft',
-        position: 'backend engineer'
+        position: 'Web developer'
       }
   },
   code: [JAVA, Javascript, HTML, CSS, Docker, git, Spring, React, Node, Redux],
